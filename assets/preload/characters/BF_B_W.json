@@ -3,7 +3,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				-175,
+				-5,
 				0
 			],
 			"anim": "idle",
@@ -14,7 +14,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				-194,
+				-23,
 				-11
 			],
 			"anim": "singLEFT",
@@ -25,7 +25,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				-153,
+				7,
 				-47
 			],
 			"anim": "singDOWN",
@@ -36,7 +36,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				-169,
+				-9,
 				9
 			],
 			"anim": "singUP",
@@ -47,7 +47,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				-203,
+				-43,
 				-5
 			],
 			"anim": "singRIGHT",
@@ -58,7 +58,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				-154,
+				16,
 				-3
 			],
 			"anim": "singLEFTmiss",
@@ -69,7 +69,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				-143,
+				17,
 				-29
 			],
 			"anim": "singDOWNmiss",
@@ -80,7 +80,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				-182,
+				-12,
 				9
 			],
 			"anim": "singUPmiss",
@@ -91,7 +91,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				-177,
+				-17,
 				13
 			],
 			"anim": "singRIGHTmiss",
@@ -102,7 +102,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				-177,
+				-6,
 				-3
 			],
 			"anim": "hey",
@@ -113,7 +113,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				-200,
+				-30,
 				-31
 			],
 			"anim": "hurt",
@@ -124,7 +124,7 @@
 		{
 			"loop": true,
 			"offsets": [
-				-201,
+				-30,
 				4
 			],
 			"anim": "scared",
@@ -135,8 +135,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-102,
-				20
+				56,
+				19
 			],
 			"anim": "firstDeath",
 			"fps": 24,
@@ -146,7 +146,7 @@
 		{
 			"loop": true,
 			"offsets": [
-				-128,
+				32,
 				18
 			],
 			"anim": "deathLoop",
@@ -157,7 +157,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				-128,
+				32,
 				32
 			],
 			"anim": "deathConfirm",
@@ -168,7 +168,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				-176,
+				-6,
 				-3
 			],
 			"anim": "dodge",
@@ -179,7 +179,7 @@
 		{
 			"loop": false,
 			"offsets": [
-				-30,
+				134,
 				-35
 			],
 			"anim": "attack",
@@ -190,8 +190,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-180,
-				0
+				-40,
+				-40
 			],
 			"anim": "pre-attack",
 			"fps": 24,
@@ -213,7 +213,7 @@
 		255
 	],
 	"camera_position": [
-		220,
+		100,
 		0
 	],
 	"sing_duration": 4,
