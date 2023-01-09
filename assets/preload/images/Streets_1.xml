@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Streets 1.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Streets 10000" x="0" y="0" width="2729" height="1438" frameX="0" frameY="0" frameWidth="2729" frameHeight="1439"/>
+	<SubTexture name="Streets 10001" x="2729" y="0" width="2729" height="1431" frameX="0" frameY="0" frameWidth="2729" frameHeight="1439"/>
+	<SubTexture name="Streets 10002" x="5458" y="0" width="2729" height="1438" frameX="0" frameY="0" frameWidth="2729" frameHeight="1439"/>
+	<SubTexture name="Streets 10003" x="0" y="1438" width="2729" height="1431" frameX="0" frameY="0" frameWidth="2729" frameHeight="1439"/>
+	<SubTexture name="Streets 10004" x="2729" y="1438" width="2729" height="1439"/>
+</TextureAtlas>
